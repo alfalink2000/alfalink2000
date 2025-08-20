@@ -9,8 +9,8 @@
 
 🌱 Cuando no estoy programando, me encuentras aprendiendo sobre diseño UX/UI o explorando nuevas tecnologías.  
 
-🌍 Estoy radicado en Pinar del Rio, Cuba  
-🖥️ Ver mi portafolio: [Portafolio](https://alfalink2000.github.io/web-portfolio/)  
+🌍 Estoy radicando en Pinar del Rio, Cuba  
+🖥️ Ver mi portafolio: [Portafolio](https://alfalink2000.github.io/my-portfolio/)  
 ✉️ Puedes contactarme en [alfalink2000@gmail.com](mailto:alfalink2000@gmail.com)  
 🤝 Estoy abierto a colaborar en soluciones innovadoras  
 
